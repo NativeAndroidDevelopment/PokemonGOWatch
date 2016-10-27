@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_93b458ccc04921e2ffa7979da599b931bb35b0c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_b5ab187a79900f8239659df7d1bd17f4996c1b39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_bbfb86d16ce9a51c09744018b8736502b4ecb055\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_38b0aaa3a267855454730d9044c00f726b1cf269\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_16629d13f095b139fd2bea0ccadd06c010ca039b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e493004a13db0b6fd6bd386a3272269a202d0ac9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\net.jpountz.lz4\lz4\1.3.0\c708bb2590c0652a642236ef45d9f99ff842a2ce\lz4-1.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c708bb2590c0652a642236ef45d9f99ff842a2ce">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\lz4-1.3.0_71d9fb020a2f39937bc80cbe6b173b252c83f175\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a81aa5dd9b8a8bbcae624155d96be412d69437ba">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8908a958eab9769bf0cb480c66ed470eab6661e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_20db62dfe9ead0d3d28cfdbfa948fa277de3ef08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_b21961e810675c694e306e156e774ea7001e1408\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_f27842ee938566eee24fb5eef03fc3e7bf9efd62\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f587b0d0f9bbe80c6154e0d5b3861c65e001b16d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_a4253c5159f0e56f178c4451a7bfa77f35af9908\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\svarzee.gps\gpsoauth\0.3\edd2a76096a88f3d72ece11b33b2ce169bb87b72\gpsoauth-0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="edd2a76096a88f3d72ece11b33b2ce169bb87b72">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\gpsoauth-0.3_ae365646c61760ef13e6f9b486812b74bb1b10d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_d8b51d9aa17afedff1a8c63e501141bb5cc5a9d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_18c81c643f01373bdb441d0cce6576ab94b2c305\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_2c6d6096c8c6520e10110ad7a164309dc0755f9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_d1bc627c734372d8dfb9929a6a1fc79642befb80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_1148934f7dd003a9a98d94091da76779a1e10864\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_083f0abb68b7a30637cc566301d1396e702bb8d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_954060e188d428cbcd91772daaad6ab8ba05d3e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_6c53be10fd362f887ddf43f5899fb005a9523a79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.annimon\stream\1.1.1\44b203be1b5ac20f50aab73fc7bd2033986692e2\stream-1.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44b203be1b5ac20f50aab73fc7bd2033986692e2">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\stream-1.1.1_2f9fcef8b9287504ef60444b64cdba63502ee1df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_fa3461f299552aaad9e7071073086af3be76ba41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_2bcffe7d52e695c952334ee8158cefbe9979e837\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.8\f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5\rxjava-1.1.8.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.8_5e611b985d7c2988bf63fc69d66ec2b1dec97d95\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\net.iharder\base64\2.3.9\6c34d1c85141be8a21b0a957d84359894e2684b7\base64-2.3.9.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c34d1c85141be8a21b0a957d84359894e2684b7">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\base64-2.3.9_071884fe5a9dcbcbf885a1ed9f001c86e1b75e70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_1aae5dfc65dd59199866e84edae9b4502146972e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_a593e0d3bca5ba827b1b45e1814aba33dd4bd675\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.0.0-beta-3\ed8c2f9a63cfa770292f8173fd0172bdaa014fe3\protobuf-java-3.0.0-beta-3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ed8c2f9a63cfa770292f8173fd0172bdaa014fe3">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-java-3.0.0-beta-3_9e1fda36e6184c5e0a2659476bc204a4ddc002c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_98d140e8eaf0c9b23d48c0360349f9e5a3869ce7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_d10f45f713a39ff9ab5663b7fdcb12719a230126\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_0fd65cced06755cb84fdf8969721dc12a87cca65\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_5a8257959fd43da62dbeaf241f0d5e089910f93f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_2cbe741c9b89551ab93cfb363a3f12f64ad3ec54\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_53558b13f582f79482319a46c1d5671a6c678a7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_d6c51851f4192a5cd44a23eaa8837fff0f385d68\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_6609335ffe9753dbe9a6ab2803f10c34b90b7539\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_1688e66f0abbada6f5662f382f5719cdf2b0ce14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.pokegoapi\PokeGOAPI-library\0.4.0\9c07ad8b5ca2ff6533071e84315662c28e1e434f\PokeGOAPI-library-0.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c07ad8b5ca2ff6533071e84315662c28e1e434f">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\PokeGOAPI-library-0.4.0_ca04b07862d07c51cd6a0f842c28ae8c153df39e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_03d3d0e37860e93ad9417edd4a4919f61942d3ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_e1d2cd560c66f4c8f1bee357d1c158e253be3f97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_7625b5fc2c1afcd85f19b2c43b279f0d169739fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_7d1f0ace136665feb1cd514ad57e7b348e651c64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_9b3e58726648cff7214027ffe54c4172b0daa107\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_84d07be281d4b7c88a1067b9608c4c0988e3723e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_e2261a77137f9229a1a729ff234f8c02c28af0b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_ff0d6450ed4ff013948d0d079e93d494613c46eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_90bc256c31ef6715f77a9713812c2e56f751fdbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2118db73ce8d9822f72d0e2509e8b1d216b4db65\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.balysv-material-ripple-1.0.2_6a22d595bc4ba5c179ed8d212aac30e310750659\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_f5cac93493285a27f72a60666b25a82d526cb9e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_353dc5c6d562fcccbebeee5c6d1356e6374cc9fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_ba230fd90fc6614cebad32cf2fc60d16bf03117c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_615b6d6ae2c8e3909c1f5a2d0017a695c039eeb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_87cc08b58e91ea86ed1b0d69695f43674f8970bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_32cef8f8277d60f5c8bc47ce041a0cf8d0b5c718\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_64013ba5e2b92b34870de7ebed47a33ef933def7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.0.1_703115fb6423a2e6758c0bceae7d5b71bbe2e79d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_4f9aa322b3dae950f2297dafc86363e3527f0fe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_a7a6a0e2bb2fa04b99634877f1b205cc18ac45e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_c55d84c167b90c9715d00a2d91e3e41eefe6ac7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_3976b45f872585491ae0ca20024af82391203b17\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_eaebea942bef5465f4962dd2ba0cd9e95a74db78\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.7_5021daf43c32499a917b5042f8a38ceec3269af2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_43c94999af68bc5762b44f06491358380068c8c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2f2dc45cae64c980c4bcfd84ab87753f8a296f60">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_659e3559b18ebd1fc41c068b9a10d5b06552127c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_5a17cb1cf4bdc98340550b393def17485fc4f1f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c66dc92a85179a8fc9040c5093da2b8c3eba4006\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f8be56201d7934bd46b261431fa2240bb9f634e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_aedb899a586aaafb011a06a06d80b741c4d68c38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_594868bb83b1b07d69138e8b380ce4bd6e667607\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-19.0_8a5039e8cbfe7287723610ea84508929eeaee7b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_3a86765c172f92fbd6ed4ec055520183ce03dae7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_c5a612e3ac95e9f3d1fa5a74b4fccde8c410775f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_2d5f94c7fca3db88b54c83b115f8b37a694c35a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\1.2.0\c27dff1588c45efcff2e07c29e9d148ee707da29\moshi-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c27dff1588c45efcff2e07c29e9d148ee707da29">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\moshi-1.2.0_2a56889ec1b3f1aba2ae329b6bab9c0051466f2f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_044e106792c769a16998bcfc5ab62954eff2db83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_2eee4cf8c46a6badeabf84fd14a7e39f89e301fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_65cc24f359ae92958aefff1812678074d26e1532\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_19e24b362a1228ca9db8b2af5724f965a7389c24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_0c384cba7a680d4b2f1676d474b0fca9c533872d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Maikel\Documents\Android\Workspace\PokemonGOWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_4b7caee0a6dd47748164622be9920b83fdfadff4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical"
+              android:padding="16dp"
+              android:weightSum="4">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:src="@drawable/logo_pokemon_go"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/fragment_login_token_input_field"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="16dp"
+            android:drawableStart="@drawable/ic_key"
+            android:gravity="center"
+            android:hint="Google Access Token"
+            android:paddingRight="16dp"
+            android:singleLine="true"
+            android:textColor="@color/light"
+            android:textColorHint="@color/semi_light"
+            android:textCursorDrawable="@null"/>
+
+        <ImageButton
+            android:id="@+id/fragment_login_token_paste_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="4dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_paste"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/fragment_login_token_error_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:text="You need an access token to sign in"
+        android:textColor="@color/error"
+        android:visibility="invisible"/>
+
+    <CheckBox
+        android:id="@+id/fragment_login_persist_sign_in_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="4dp"
+        android:buttonTint="@color/light"
+        android:paddingLeft="4dp"
+        android:text="Keep me signed in"
+        android:textColor="@color/light"/>
+
+    <Button
+        android:id="@+id/fragment_login_sign_in_button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign in"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/fragment_login_token_request_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Need a token ?"
+        android:textColor="@color/light"/>
+
+</LinearLayout>
