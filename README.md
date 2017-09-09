@@ -3,6 +3,6 @@ Android app using the [PokeGOAPI][1] to observe and notify of any Pokémon _runn
 It runs a background service and informs the user with a message in the notification bar.
 
 ### Deprecated
-*Code remains here for referential purposes only*
+*Code remains here for referential purposes*
 
 [1]:https://github.com/Grover-c13/PokeGOAPI-Java
